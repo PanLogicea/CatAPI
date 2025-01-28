@@ -51,7 +51,7 @@ namespace CatAPI.Controllers
                 }
 
                 await _context.SaveChangesAsync();
-                return Ok($"Cats fetched and saved successfully.");
+                return Ok("Cats fetched and saved successfully.");
 
             }
             catch (HttpRequestException httpEx)
