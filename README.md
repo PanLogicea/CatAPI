@@ -24,7 +24,7 @@ dotnet ef database update
 
 ### 1. Build the application
 ### 2. Run the application
-The application should now be running at `https://localhost:5001` or `http://localhost:5000`.
+The application should now be running at `https://localhost:7120` or `http://localhost:5177`.
 
 ## Testing
 To run the tests, use the following command:
